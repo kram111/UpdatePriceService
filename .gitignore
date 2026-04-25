@@ -25,6 +25,7 @@ obj/
 *.lost
 *.csproj.user
 
+
 # SQLite
 *.db
 *.db-shm
@@ -49,6 +50,8 @@ bld/
 .vscode/
 *.swp
 *.tmp
+*.pid
+*.pdb
 
 # OS generated files
 .DS_Store
